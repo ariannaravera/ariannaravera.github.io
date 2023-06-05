@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arianna Ravera"
-  avatar           : "files/photo.png"
+  avatar           : "photo.png"
   bio              : "My biography"
   location         : "Location"
   employer         :
