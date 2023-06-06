@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arianna Ravera"
 title_separator          : "-"
 name                     : &name "Arianna Ravera"
-description              : &description "Image Analyst"
+description              : &description "Image Processing Engineer"
 url                      : https://ariannaravera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ariannaravera/ariannaravera.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : '@ariannaravera_'
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Arianna Ravera"
   avatar           : "photo.png"
-  bio              : "My biography"
-  location         : "Location"
+  bio              : "Image Processing Engineer"
+  location         : "University of Lausanne"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://ariannaravera.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ch/citations?user=QNhppW0AAAAJ&hl=it&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ariannaravera"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ariannaravera_"
   vine             :
   weibo            :
   xing             :
