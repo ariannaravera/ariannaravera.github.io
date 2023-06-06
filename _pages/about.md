@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-======
+
 Passionate about programming and driven by a deep fascination for the realms of medicine and biology, I have dedicated myself to merging these two interests. My focus lies in leveraging AI algorithms and techniques to analyze biomedical images.
 
 With an academic background spanning Italy and Sweden, I had the privilege of collaborating with the Uppsala hospital for some months on an impactful thesis project. To further enhance my skill set, I gained valuable experience through a year-long tenure at a prominent consulting company in Italy before transitioning back to the academic environment.
