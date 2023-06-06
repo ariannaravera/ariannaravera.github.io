@@ -1,4 +1,13 @@
-About me
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ======
 Passionate about programming and driven by a deep fascination for the realms of medicine and biology, I have dedicated myself to merging these two interests. My focus lies in leveraging AI algorithms and techniques to analyze biomedical images.
 
