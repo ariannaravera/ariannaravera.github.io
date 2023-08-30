@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+---
 Work experience
 ======
 * **Research Engineer in Computer Vision** , University of Lausanne (Oct2022 - Current)
