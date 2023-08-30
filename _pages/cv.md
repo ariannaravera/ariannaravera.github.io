@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+
 Work experience
 ======
 * **Research Engineer in Computer Vision** , University of Lausanne (Oct2022 - Current)
