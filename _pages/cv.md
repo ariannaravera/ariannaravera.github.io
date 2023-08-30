@@ -40,6 +40,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* The Polynomial Robust Knapsack Problem - *European Journal of Operational Research*
+* Automatic Urban functions identification via social analysis - *Cities*
+* Artificial Intelligence based modelling of ARDS
+
