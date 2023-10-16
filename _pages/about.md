@@ -9,8 +9,15 @@ redirect_from:
 ---
 
 
-Passionate about programming and driven by a deep fascination for the realms of medicine and biology, I have dedicated myself to merging these two interests. My focus lies in leveraging AI algorithms and techniques to analyze biomedical images.
+Hey there! My lifelong passions have always revolved around organization, optimization, and creativity. During my years of study, I was fortunate enough to stumble upon a career path that beautifully amalgamated these interests, leading me to become a Data Science Engineer. 
 
-With an academic background spanning Italy and Sweden, I had the privilege of collaborating with the Uppsala hospital for some months on an impactful thesis project. To further enhance my skill set, I gained valuable experience through a year-long tenure at a prominent consulting company in Italy before transitioning back to the academic environment.
+Programming holds a special place in my heart, and I continuously strive to expand my skill set by learning new languages and techniques. I thoroughly enjoy the challenge of problem-solving and take great pleasure in presenting elegant and visually appealing solutions.
 
-Currently, I am thriving in my role at the Computing and Research Support Division of the University of Lausanne. Here, I engage in daily collaborations with esteemed researchers and contribute to cutting-edge projects within the Faculty of Biology and Medicine (FBM). The continuous learning opportunities and meaningful work I encounter every day bring me immense satisfaction.
+My academic journey has taken me from Italy to Sweden, an enriching experience that granted me the privilege of collaborating with Uppsala Hospital on a thesis project of notable significance. This was followed by a year-long tenure at a prominent consulting company in Italy, further refining my skill set before my transition to Switzerland.
+
+In my present role, I've embarked on an exciting fusion of my expertise with another passion of mine: the intricate fields of medicine and biology. I've found my niche at the Computing and Research Support Division of the University of Lausanne, where I foster daily collaborations with esteemed researchers. My mission is to contribute to cutting-edge projects within the Faculty of Biology and Medicine (FBM), capitalizing on AI algorithms and techniques to decipher the complexities of biomedical images.
+
+On a more personal note, I am always on the move. I have a deep love for sports, particularly when enjoyed outdoors with friends. Additionally, I find great fulfillment in participating in international volunteering experiences with children. However, I hesitate to label these experiences as traditional volunteering, as the children I work with transmit their kindness and indescribable energy to me, creating a mutual exchange.  
+
+In summary, this is me in a nutshell. Whether you require assistance in developing innovative tools, organizing your schedule with a touch of flair, going for a run by the lake, or even embarking on a 
+trip to Brazil, please do not hesitate to reach out to me!
