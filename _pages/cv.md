@@ -24,7 +24,7 @@ Work experience
 
 Education
 ======
-* **Master Degree** - ICT for Smart Societies Engineering, Politecnico di Torino, 2021  
+* **Master Degree** - ICT and Data Science Engineering, Politecnico di Torino, 2021  
 
 * **Bachelor Degree** - Engineering and Management IT cohort, Politecnico di Torino, 2019
 
